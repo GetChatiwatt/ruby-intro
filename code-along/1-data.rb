@@ -17,3 +17,9 @@
 # Combine strings and variables
 
 # String manipulation
+
+# Put the number 2 on screen
+puts 2
+
+# Put tacos on screen
+puts tacos
